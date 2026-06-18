@@ -1,0 +1,6 @@
+@PlcSyncr.WebApi_HostAddress = http://localhost:5187
+
+GET {{PlcSyncr.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
